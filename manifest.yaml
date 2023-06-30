@@ -1,8 +1,4 @@
-buildEnvs:
-  - name: BP_NATIVE_IMAGE
-    value: "true"
-  - name: BP_JVM_VERSION
-    value: "17"
-healthEndpoints:
-  liveness: /actuator/health
-  readiness: /actuator/health
+schema_version: 0.0.1 # The version for manifest.yaml schema
+
+name: kadras
+version: 0.0.1
