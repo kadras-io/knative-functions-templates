@@ -1,1 +1,1 @@
-# knative-functions-templates
+# Knative Functions Templates
